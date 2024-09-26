@@ -1,0 +1,24 @@
+{
+    "Name": "Narrative Movie fMRI Dataset",
+    "BIDSVersion": "v1.9.0",
+    "License": "CC0",
+    "Authors": [
+        "Hiroto Q. Yamaguchi",
+        "Naoko Koide-Majima",
+        "Rieko Kubo",
+        "Tomoya Nakai",
+        "Shinji Nishimoto"
+    ],
+    "Acknowledgments": "",
+    "HowToAcknowledge": "",
+    "Funding": [
+        "JSPS KAKENHI Grant Number 23K20019", 
+        "JST ERATO (JPMJER1801)", 
+        "JST CREST (JPMJCR18A5)"
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "DatasetDOI": ""
+}
+
