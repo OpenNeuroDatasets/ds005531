@@ -4,7 +4,7 @@ by Hiroto Q. Yamaguchi, Naoko Koide-Majima, Rieko Kubo, Tomoya Nakai, and Shinji
 The dataset is designed to investigate the brain representations underlying narrative understanding. We measured fMRI BOLD responses from six participants as they watched nine narrative movies (~8 hours total). Additionally, BOLD responses were recorded during several functional localizer runs. Detailed annotations of the movie contents are also provided. 
 
 - Six participants: sub-S01, sub-S02, …, sub-S06
-- 9 titles of narrative movies: breakingbad, bigbangtheory, crown, heroes, suits, dreamgirls, glee, mentalist, gis 
+- Nine titles of narrative movies: breakingbad, bigbangtheory, crown, heroes, suits, dreamgirls, glee, mentalist, gis 
 
 The "derivatives" directory contains the following six subdirectories, storing data used in the analytical procedures on our GitHub page (https://github.com/nkmjm/fMRI_Narrative_movie/). These procedures include extracting large language model (LLM) latent features from the annotations, encoding model fitting using the LLM latent features, and visualizing encoding accuracies:
 
