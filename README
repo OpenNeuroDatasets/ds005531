@@ -17,4 +17,4 @@ The "derivatives" directory contains the following six subdirectories, storing d
 
 For detailed instructions on how to use the data, please refer to our GitHub page (https://github.com/nkmjm/fMRI_Narrative_movie).
 
-Caution: This dataset is for research purposes only. The data have been anonymized, and users must not perform analyses aimed at re-identifying individual subjects.
+**Caution**: This dataset is for research purposes only. The data have been anonymized, and users must not perform analyses aimed at re-identifying individual subjects.
