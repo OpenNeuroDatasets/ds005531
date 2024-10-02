@@ -12,9 +12,10 @@
     "Acknowledgments": "",
     "HowToAcknowledge": "",
     "Funding": [
-        "JSPS KAKENHI Grant Number 23K20019",
-        "JST ERATO (JPMJER1801)",
-        "JST CREST (JPMJCR18A5)"
+        "MEXT|JSPS KAKENHI JP18H05522",
+        "MEXT|JSPS KAKENHI JP23K20019",
+        "MEXT|JSPS KAKENHI JP24H00619",
+        "JST ERATO JPMJER1801"
     ],
     "ReferencesAndLinks": [
         "Yuko Nakagi, Takuya Matsuyama, Naoko Koide-Majima, Hiroto Yamaguchi, Rieko Kubo, Shinji Nishimoto,  and Yu Takagi. The Brain Tells a Story: Unveiling Distinct Representations of Semantic Content in Speech, Objects, and Stories in the Human Brain with Large Language Models. bioRxiv (2024): 2024-02. https://doi.org/10.1101/2024.02.06.579077"
