@@ -1,6 +1,6 @@
 # Multi-Annotation fMRI Dataset from Extensive Drama and Film Viewing by Hiroto Q. Yamaguchi, Naoko Koide-Majima, Rieko Kubo, Tomoya Nakai, and Shinji Nishimoto 
 
-The dataset is designed to investigate the brain representations underlying narrative understanding. We measured fMRI BOLD responses from six participants as they watched nine narrative movies (~8 hours total). Additionally, BOLD responses were recorded during several functional localizer runs. Detailed annotations of the movie contents are also provided. 
+The dataset is designed to investigate the brain representations underlying narrative understanding. We measured fMRI BOLD responses from six participants as they watched nine narrative movies (~9 hours total). Additionally, BOLD responses were recorded during several functional localizer runs. Detailed annotations of the movie contents are also provided. 
 
 	•	Six participants: sub-S01, sub-S02, …, sub-S06
 	•	Nine titles of narrative movies: breakingbad, bigbangtheory, crown, heroes, suits, dreamgirls, glee, mentalist, gis 
