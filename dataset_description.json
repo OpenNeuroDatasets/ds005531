@@ -20,7 +20,7 @@
     "ReferencesAndLinks": [
         "Yuko Nakagi, Takuya Matsuyama, Naoko Koide-Majima, Hiroto Yamaguchi, Rieko Kubo, Shinji Nishimoto, and Yu Takagi. The Brain Tells a Story: Unveiling Distinct Representations of Semantic Content in Speech, Objects, and Stories in the Human Brain with Large Language Models. BioRxiv (2024): 2024-02. https://doi.org/10.1101/2024.02.06.579077"
     ],
-    "DatasetDOI": "",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005531.v1.0.0",
     "EthicsApprovals": [
         "The ethics and safety committees of the National Institute of Information and Communications Technology approved the experimental protocol."
     ]
