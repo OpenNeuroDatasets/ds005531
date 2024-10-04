@@ -12,7 +12,7 @@ The "derivatives" directory contains the following six subdirectories, storing d
 	•	feature: GPT-2 latent features in the 6th, 12th, 18th, and 24th layers, extracted from the annotations.
 	•	pycortex_db: Pycortex database for visualizing analytical results on the cortical surface.
 	•	localizer: Statistics and estimates derived from nine types of functional localizer data (visual, auditory, motor, and cognitive tasks) used to create brain masks for various regions of interest (ROIs).
-	•	ridge: Prediction accuracies of an encoding model using latent features from the three types of annotations.
+	•	accuracy: Prediction accuracies of an encoding model using latent features from the three types of annotations.
 
 For detailed instructions on how to use the data, please refer to our GitHub page (https://github.com/nkmjm/fMRI_Narrative_movie).
 
